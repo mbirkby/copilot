@@ -1,0 +1,6 @@
+rootProject.name = 'copilot'
+
+include 'copilot-core'
+include 'copilot-viewer'
+include 'copilot-android:app'
+include 'copilot-android:openCVLibrary248'

@@ -22,4 +22,4 @@ onto your device.
 
 notes:
 
-The local.properties is not
+The local.properties containing sdk is not in github.  It contains location of your own sdk for android studio and is created automatically.  However it needs to be moved to the root directory (under copilot) for it to work.

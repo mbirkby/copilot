@@ -1,0 +1,34 @@
+1,20 mph
+2,30 mph
+3,40 mph
+4,Cattle
+5,Crossroads
+6,Cycle Route
+7,Double Bend Left First
+8,Dual Carriageway Ends
+9,Elderly People Crossing
+10,Give Way
+11,Give Way To Oncoming
+12,Junction on Right Bend
+13,Loose Chippings
+14,No Cycling
+15,No Entry
+16,No Left Turn
+17,No Motor Vehicles
+18,No Right Turn
+19,No U Turns
+20,Pedestrians In Road
+21,Right Bend
+22,Road Narrows from Both Sides
+23,Road Narrows from Right
+24,Roadworks
+25,Roundabout
+26,School Crossing
+27,Slippery Road
+28,Stop
+29,Traffic Lights
+30,Two Way Traffic Ahead
+31,Two Way Traffic Crossing
+32,Uneven Road
+33,Wild Animals
+34,Zebra Crossing

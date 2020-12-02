@@ -3,11 +3,11 @@ Application to detect road signs using an android phone.
 
 Structure
 
-copilot - root project
-  copilot-android - the android application
-  copilot-core - most of the code sits in this project
+copilot - root project  
+copilot-android - the android application  
+copilot-core - most of the code sits in this project
 
-Setting up
+# Setting up
 
 It requires OpenCV computer vision library to be downloaded and OpenCV manager installed on your device (to obtain the correct
 native libraries).  
@@ -20,6 +20,6 @@ The android native libraries are present in the opencv download but at the time 
 opencv manager from google play onto your device.  Alternatively there are apk files in the opencv that can be installed directly
 onto your device.
 
-notes:
+# Notes:
 
-The local.properties containing sdk is not in github.  It contains location of your own sdk for android studio and is created automatically.  However it needs to be moved to the root directory (under copilot) for it to work.
+The local.properties file is not in github.  It contains the location of your own sdk for android studio and is created automatically.  However it needs to be moved to the root directory (under copilot) for it to work.

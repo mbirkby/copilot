@@ -1,11 +1,14 @@
-# copilot
+# Copilot
 Application to detect road signs using an android phone.  
 
-Structure
+# Structure
 
 copilot - root project  
 copilot-android - the android application  
 copilot-core - most of the code sits in this project
+
+# Description
+The android application uses opencv to access the phones camera video feed.  Each frame of the video feed (a Mat object) is passed into copilot.java which detects a sign within the image, keeps track of the sign (so it doesn't alert twice), attempts to identify the sign (currently using feature detection), highlights and labels the sign on the image and causes an audible alert on the device if it is a new sign.  The frame with augmented sign details is returned to the android activity where it is displayed on the phones display. 
 
 # Setting up
 
